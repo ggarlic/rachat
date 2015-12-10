@@ -2,7 +2,7 @@
 
 (provide launch-rachat-server)
 
-(require 2htdp/image 2htdp/universe "shared.rkt")
+(require 2htdp/image 2htdp/universe)
 
 (define u0 empty)
 

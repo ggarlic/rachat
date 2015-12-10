@@ -1,3 +1,5 @@
 1, parse cli arguments for client
 2, ctrl-return to send
 3, variable rename
+4, tests
+

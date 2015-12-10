@@ -2,7 +2,7 @@
 
 (provide launch-rachat-client)
 
-(require 2htdp/image 2htdp/universe "shared.rkt")
+(require 2htdp/image 2htdp/universe)
 
 
 ;;InitState
